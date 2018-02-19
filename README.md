@@ -23,7 +23,7 @@ Class 5.3, 5.4, 5.5, 5.6 sürümlerinde çalışmaktadır.
 
 ### Örnekler
 
-Daha fazla örnek için: [ornekler](https://github.com/ErenKrt/php-ininal-class/ornekler).
+Daha fazla örnek için: [ornekler](https://github.com/ErenKrt/php-ininal-class/tree/master/ornekler).
 
 ```php
 require_once("../../function.php");
