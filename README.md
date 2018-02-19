@@ -5,7 +5,7 @@ ininal API için hazırlanmış basit class.
 - [Kurulum](#kurulum)
 - [Bilgilendirme](#bilgilendirme)
 - [Örnekler](#örnekler)
-- [Contribute](#güncellemeler)
+- [Güncellemeler](#güncellemeler)
 
 ---
 
