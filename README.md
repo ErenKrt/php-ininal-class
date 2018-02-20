@@ -1,4 +1,4 @@
-ininal API için hazırlanmış basit class.
+ininal API için hazırlanmış basit bir php sınıfı(class). Bu sınıf(class) sayesinde tekrar tekrar kod yazmaktan kurtulup sınıf(class) içerisine sunulan fonksiyonlar ile basit ve hızlıca işinizi halledebilirsiniz.
 
 ---
 
