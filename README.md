@@ -4,6 +4,7 @@ ininal API için hazırlanmış basit bir php sınıfı(class). Bu sınıf(class
 
 - [Kurulum](#kurulum)
 - [Bilgilendirme](#bilgilendirme)
+- [Auth](#Auth)
 - [Örnekler](#örnekler)
 - [Güncellemeler](#güncellemeler)
 
@@ -14,12 +15,25 @@ ininal API için hazırlanmış basit bir php sınıfı(class). Bu sınıf(class
 Php üzerinde basit kurulum:
 
     require_once("function.php");
-	require 'function.php';
+    require 'function.php';
 
 
 ### Bilgilendirme
 
 Class 5.3, 5.4, 5.5, 5.6 sürümlerinde çalışmaktadır.
+
+### Bilgilendirme
+
+```php
+require_once("../../function.php");
+
+$ininal= new epininal();
+$api_key="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
+$api_secret="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
+$api_auth= base64_encode($api_key.":".$api_secret);
+
+$giris= $ininal->giris($api_auth);
+```
 
 ### Örnekler
 
