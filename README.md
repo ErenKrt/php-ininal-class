@@ -22,7 +22,7 @@ Php üzerinde basit kurulum:
 
 Class 5.3, 5.4, 5.5, 5.6 sürümlerinde çalışmaktadır.
 
-### Bilgilendirme
+### Auth
 
 ```php
 require_once("../../function.php");
