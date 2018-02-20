@@ -4,7 +4,7 @@ ininal API için hazırlanmış basit bir php sınıfı(class). Bu sınıf(class
 
 - [Kurulum](#kurulum)
 - [Bilgilendirme](#bilgilendirme)
-- [Auth](#Auth)
+- [Auth](#auth)
 - [Örnekler](#örnekler)
 - [Güncellemeler](#güncellemeler)
 
