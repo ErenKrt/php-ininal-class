@@ -7,7 +7,7 @@
 // |________|[___]    '.__.'[___||__]|____||____|[___]   \__/
 
 /**
- * Class Yabancı Dizi Bot PHP / Class
+ * Class İninal PHP / Class
  * @author Eren Kurt (ErenKrt)
  * @mail kurteren07@gmail.com
  * @İnstagram ep.eren
